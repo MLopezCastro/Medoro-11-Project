@@ -7,11 +7,6 @@
 *.dacpac
 *.bacpac
 
-# Power BI pesados
-*.pbix
-*.pbip
-*.pbids
-
 # SO / IDE
 .DS_Store
 Thumbs.db
