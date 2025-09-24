@@ -1,4 +1,3 @@
-genial. acá tenés el **README de Medoro 11** listo para copiar a tu repo/proyecto y, si querés, pegar el script entero en SSMS para crear todo de una.
 
 # MEDORO 11 — README
 
