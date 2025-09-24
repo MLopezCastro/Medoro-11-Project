@@ -1,0 +1,18 @@
+﻿# SQL & dumps
+*.bak
+*.trc
+*.mdf
+*.ndf
+*.ldf
+*.dacpac
+*.bacpac
+
+# Power BI pesados
+*.pbix
+*.pbip
+*.pbids
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
